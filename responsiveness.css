@@ -1,0 +1,12 @@
+@media (max-width: 1000px){
+ .heading-1{
+ 	float: left;
+ }
+ .navigation-bar{
+ 	float: right;
+ }
+}
+
+@media (max-width: 700px){
+
+}
